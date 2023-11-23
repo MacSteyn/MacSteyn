@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @MacSteyn
-<!---
-MacSteyn/MacSteyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center" >
 
-
+ <img src="https://github.com/greyhatguy007/resources/blob/main/Intro.gif" alt="Hi, I'm Ritvik 👋 I'm a 🚀 Indian developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
 <p align="center" >
 
  <img src="https://github.com/gMacsteyn/resources/blob/main/Intro.gif" alt="Hi, I'm Dambar 👋 I'm a Nepali Learner and developer 🚀 I ❤️ Happy Hardcore ❤️">
