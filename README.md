@@ -13,5 +13,3 @@
 <br></br>
 
 <br/>
-
-Believe in yourself!!
