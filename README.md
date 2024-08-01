@@ -14,6 +14,4 @@
 
 <br/>
 
-Started with a little bit ;
-Now I don't know how to quit !
-```
+Believe in yourself!!
